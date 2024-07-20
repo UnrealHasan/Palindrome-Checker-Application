@@ -26,7 +26,4 @@ function palindromeChecker(){
 
 }
 
-
-
-
 document.getElementById('checkButton').addEventListener("click",palindromeChecker);
